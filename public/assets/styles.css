@@ -1,0 +1,67 @@
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+/* Container */
+
+.container {
+    height: 100%;
+    align-content: center;
+  }
+  
+  /* Card */
+  
+  .card {
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+  
+  /* Card header */
+  
+  .card-header h3 {
+    color: purple;
+  }
+  
+  /* Social icons */
+  
+  .social_icon span {
+    font-size: 60px;
+    margin-left: 10px;
+    color: purple;
+  }
+  
+  /* Input group */
+  
+  .input-group-prepend span {
+    width: 50px;
+    background-color: purple;
+    color: white;
+    border: 0 !important;
+  }
+  
+  /* Input fields */
+  
+  input {
+    background-color: transparent;
+    color: white;
+    border: none;
+  }
+  
+  /* Submit button */
+  
+  .login_btn {
+    color: white;
+    background-color: purple;
+    width: 100px;
+  }
