@@ -1,10 +1,11 @@
 	/* Coded with love by Mutiullah Samim */
     body,
     html {
+        background-image: url('https://c8.alamy.com/compes/mm5pwy/kawaii-cute-gatos-plantilla-de-tarjetas-de-cumpleanos-feliz-ilustracion-vectorial-mm5pwy.jpg');
         margin: 0;
         padding: 0;
         height: 100%;
-        background: #60a3bc !important;
+       
     }
     .user_card {
         height: 400px;
